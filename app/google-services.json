@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "791440093030",
+    "firebase_url": "https://tattooshopapp.firebaseio.com",
+    "project_id": "tattooshopapp",
+    "storage_bucket": "tattooshopapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791440093030:android:a0705d45e2f7e590",
+        "android_client_info": {
+          "package_name": "com.example.tattooshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791440093030-ka9gs0fm6f7ic1vg6qc4bc5ube70dcg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tattooshop",
+            "certificate_hash": "4759d437e48bc20c4e9b4b9e7c0fed5661bda1cc"
+          }
+        },
+        {
+          "client_id": "791440093030-kiqpaqml51jrfn501fts4794entifqtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI-2Rvf6FnvGPjVUA-HdRRxNwmgeSrHMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791440093030-kiqpaqml51jrfn501fts4794entifqtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
